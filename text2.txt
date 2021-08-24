@@ -1,2 +1,3 @@
 branch issue1 add some text
 master commit
+issue1 commit
